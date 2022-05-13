@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @farit235
+- 👋 Hi, I’m Farit
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning React, JS, Python, HTML and CSS
 - 🧑‍💼 I’m looking to collaborate on some interesting projects.
