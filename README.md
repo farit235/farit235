@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @farit235
+- 👀 I’m interested in Web-Development
+- 🌱 I’m currently learning React, JS, Python, HTML and CSS
+- 🧑‍💼 I’m looking to collaborate on some interesting projects.
+- 📫 How to reach me? - my e-mail: farit2304@gmail.com
