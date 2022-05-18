@@ -4,6 +4,5 @@
 - 🧑‍💼 I’m looking to collaborate on some interesting projects.
 - 📫 How to reach me? - my e-mail: farit2304@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farit235&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farit235&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Alt Text](https://r3.mt.ru/u18/photo4538/20194055322-0/original.gif)
