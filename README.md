@@ -1,7 +1,12 @@
 - 👋 Hi, I’m Farit
 - 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning React, JS, Python, HTML and CSS
-- 👨‍💻 I've done 3 projects: Apple react-store(React, JSX, CSS, HTML) and design NewsPage(HTML, CSS) ARE PINNED!!! And online school in organization: someOrganiz! 
+
+- 🌱 I’m currently learning Python, Flask, Testing and Databases.
+- 📚 Currently you can find done Homeworks on https://github.com/farit235/Sky_Pro_Course repository and done Course Works https://github.com/farit235/Sky_Pro_Course_Works by SkyPro Course. 
+
+- 📝 I studied React, JS, HTML and CSS
+- 👨‍💻 I've done 3 projects on React, JSX, CSS, HTML: Apple react-store and NewsPage ARE PINNED!!! And online school in organization: someOrganiz! 
+
 - 🙂 I’m looking to collaborate on some interesting projects.
 - 📫 How to reach me? - my e-mail: farit2304@gmail.com
 - 🐒 My pet-project: https://react-store-farit235.vercel.app
