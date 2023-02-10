@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web-Development
 
 - 🌱 I’m currently learning Python, Flask, Testing and Databases.
-- 📚 Currently you can find done Homeworks on https://github.com/farit235/Sky_Pro_Course repository and done Course Works https://github.com/farit235/Sky_Pro_Course_Works by SkyPro Course. 
+- 📚 Currently you can find done Homeworks on https://github.com/farit235/Sky_Pro_Course repository and done Course Works https://github.com/farit235/Sky_Pro_Course_Works by SkyPro Course (PINNED). 
 
 - 📝 I studied React, JS, HTML and CSS
 - 👨‍💻 I've done 3 projects on React, JSX, CSS, HTML: Apple react-store and NewsPage ARE PINNED!!! And online school in organization: someOrganiz! 
