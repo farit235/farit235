@@ -10,6 +10,7 @@
 - 🙂 I’m looking to collaborate on some interesting projects.
 - 📫 How to reach me? - my e-mail: farit2304@gmail.com
 - 🐒 My pet-project: https://react-store-farit235.vercel.app
+- 📋 My sertificates: https://github.com/farit235/Serificates
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farit235&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Alt Text](https://r3.mt.ru/u18/photo4538/20194055322-0/original.gif)
