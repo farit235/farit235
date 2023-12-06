@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Farit
-- 👀 I’m interested in Web-Development
+- 👀 I’m interested in DevOps-Engeeniring!
 
-- 🌱 I’m currently learning Python, Flask, Testing and Databases.
+- 🌱 I’m currently learning Python, Bash, Jenkins and Databases.
 - 📚 Currently you can find done Homeworks on https://github.com/farit235/Sky_Pro_Course repository and done Course Works https://github.com/farit235/Sky_Pro_Course_Works by SkyPro Course (PINNED). 
 
 - 📝 I studied React, JS, HTML and CSS
