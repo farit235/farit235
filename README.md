@@ -1,10 +1,12 @@
 - 👋 Hi, I’m Farit
 - 👀 I’m interested in DevOps-Engeeniring!
 
-- 🌱 I’m currently learning Python, Bash, Jenkins and Databases.
-- 📚 Currently you can find done Homeworks on https://github.com/farit235/Sky_Pro_Course repository and done Course Works https://github.com/farit235/Sky_Pro_Course_Works by SkyPro Course (PINNED). 
+- 🌱 I’m currently learning Python, Bash, Groovy, Jenkins and Docker.
 
-- 📝 I studied React, JS, HTML and CSS
+- 📚 Currently you can find done ["Homeworks"](https://github.com/farit235/Sky_Pro_Course) and done [Course Works](https://github.com/farit235/Sky_Pro_Course_Works) by SkyPro Course (PINNED). 
+- 📚 Additionaly, you can find done Homeworks on ["Docker Course"](https://github.com/farit235/Docker_Course) by Karpov Courses (PINNED).
+
+- 📝 I studied React, JS, HTML, CSS, Python and Bash languages.
 - 👨‍💻 I've done 3 projects on React, JSX, CSS, HTML: Apple react-store and NewsPage ARE PINNED!!! And online school in organization: someOrganiz! 
 
 - 🙂 I’m looking to collaborate on some interesting projects.
