@@ -12,7 +12,7 @@
 - JavaScript: React.
 ---
 ### Done courses by myself 👇
-📚 Currently you can find done ["Homeworks"](https://github.com/farit235/Sky_Pro_Course) and done [Course Works](https://github.com/farit235/Sky_Pro_Course_Works) by SkyPro Course (PINNED). 
+📚 Currently you can find done [Homeworks](https://github.com/farit235/Sky_Pro_Course) and done [Course Works](https://github.com/farit235/Sky_Pro_Course_Works) by SkyPro Course (PINNED). 
 
 📚 Additionaly, you can find done Homeworks on ["Docker Course"](https://github.com/farit235/Docker_Course) by Karpov Courses (PINNED).
 
