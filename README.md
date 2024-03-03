@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Farit
-- 👀 I’m interested in DevOps-Engeeniring!
+# 👋 Hi, I’m Farit
+# 👀 I’m interested in DevOps-Engeeniring!
 
 # I'm developing skills now 📈🚀...👇
 - 🌱 I’m currently learning Python, Bash, Groovy, Jenkins and Docker.
