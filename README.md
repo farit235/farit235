@@ -21,7 +21,7 @@
 
 🐒 My [pet-project](https://react-store-farit235.vercel.app)
 
-📋 My [certificates](https://github.com/farit235/Serificates)
+📋 My [certificates](https://github.com/farit235/Cerificates)
 
 ---
 ### Let's connect to create this world better!
