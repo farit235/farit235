@@ -17,7 +17,7 @@
 📚 Additionaly, you can find done Homeworks on ["Docker Course"](https://github.com/farit235/Docker_Course) by Karpov Courses (PINNED).
 
 ### Some projects by myself 👇
-👨‍💻 I've done 3 projects on React, JSX, CSS, HTML: [Apple react-store](https://github.com/farit235/react-store) and [News Page](https://github.com/farit235/NewsPage) (PINNED). And online school in organization: someOrganiz! 
+👨‍💻 I've done 3 projects on React, JSX, CSS, HTML: [Apple react-store](https://github.com/farit235/react-store) and [News Page](https://github.com/farit235/NewsPage) (PINNED).
 
 🐒 My [pet-project](https://react-store-farit235.vercel.app)
 
